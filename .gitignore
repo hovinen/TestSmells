@@ -1,0 +1,15 @@
+/bin
+/build
+/.gradle
+/domain/bin
+/domain/build
+/.classpath
+web-ui/.metadata/
+/frontend/.idea
+/frontend/src/.idea
+.settings
+.project
+.classpath
+*/.settings
+*/.project
+*/.classpath
