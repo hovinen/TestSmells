@@ -7,9 +7,7 @@ import static socrates.bettertests.OptionalPresentMatcher.isPresent;
 import static socrates.bettertests.PropertyMatcherFactory.property;
 
 import java.time.LocalDate;
-import java.util.List;
 
-import org.hamcrest.FeatureMatcher;
 import org.hamcrest.Matcher;
 import org.junit.Test;
 
